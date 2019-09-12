@@ -7,8 +7,7 @@ The data is from a Ecommerce company based in New York City that sells clothing 
 The company is trying to decide whether to focus their efforts on their mobile app experience or their website. 
 
 ### Information about the data 
-
-We'll work with the Ecommerce Customers csv file from the company. It has Customer info, suchas Email, Address, and their color Avatar. Then it also has numerical value columns:
+ The csv file has customer information such as Email, Address, and their color Avatar. Then it also has numerical value columns:
 
 Avg. Session Length: Average session of in-store style advice sessions.
 Time on App: Average time spent on App in minutes
