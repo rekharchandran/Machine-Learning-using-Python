@@ -1,5 +1,5 @@
 # Linear-Regression-Project
-Based on tutorials from the python course(pierian data), here I find all necessary documents to learn from or use it for future goals.
+Based on tutorials from the python course(Source:Pierian data), here I find all necessary documents to learn from or use it for future goals.
 
 ### Introduction 
 
